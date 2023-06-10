@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riddle989" alt="riddle989" /></a> </p>
 
-- 🔭 I’m currently working on **some complex enterprise application to improve performance and feature development.**
+- I’m currently working on **some complex enterprise application to improve performance and feature development.**
 
-- 🌱 I’m currently learning **Angular, .Net core, Devops**
+- I’m currently learning **Angular, .Net core, Devops**
 
-- 💬 Ask me about **Angular, .Net core**
+- Ask me about **Angular, .Net core**
 
-- 📫 How to reach me **asif.shagor.r@gmail.com**
+- How to reach me **asif.shagor.r@gmail.com**
+
+-  My Problem Solving profile <a href="https://www.stopstalk.com/user/profile/riddle">**rid.dle**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
