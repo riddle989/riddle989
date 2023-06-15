@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riddle989" alt="riddle989" /></a> </p> -->
 
-- I’m currently working on **some complex enterprise application to improve performance and feature development.**
+- I’m currently working on **some complex enterprise application to improve performance and feature development**
 
 - I’m currently learning **Angular, .Net core, Devops**
 
